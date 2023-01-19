@@ -8,7 +8,7 @@ As an aspiring software engineer, I am always looking for opportunities to learn
 During my academic years, I gained experience with these technologies:
 
 * Java
-* Spring
+* Spring Boot
 * Git
 * HTML
 * CSS
