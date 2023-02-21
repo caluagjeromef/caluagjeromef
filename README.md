@@ -1,8 +1,6 @@
 # Jerome Caluag
 
-## About me
-
-### Tech Stack
+## Tech Stack
 During my academic years, I gained experience with these technologies:
 
 * Java
@@ -16,7 +14,7 @@ During my academic years, I gained experience with these technologies:
 
 **I am currently focusing on further developing my skills in Java.**
 
-### Development Environment
+## Development Environment
 * Android Studio
 * IntelliJ Idea
 * Eclipse
