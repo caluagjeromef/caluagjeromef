@@ -5,6 +5,9 @@ During my academic years, I gained experience with these technologies:
 
 * Java
 * Spring Boot
+* PHP
+* C
+* C++
 * Git
 * HTML
 * CSS
